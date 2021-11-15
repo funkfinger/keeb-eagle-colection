@@ -1,2 +1,2 @@
-# keeb-eagle-colection
+# keeb-eagle-collection
 collection of eagle parts for a keyboard project....
